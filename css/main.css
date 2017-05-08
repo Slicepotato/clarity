@@ -65,7 +65,7 @@ h2, h3 {
   @media only screen and (min-width: 500px) {
     #top_nav {
       position: static;
-      display: block;
+      display: block !important;
       width: auto; }
       #top_nav ul {
         display: flex;
