@@ -103,7 +103,7 @@ ul#ulink_list li {
 }
 ul#ulink_list li:before {
 	content: '\f105';
-	font-family: 'FontAwesome'
+	font-family: 'FontAwesome';
 	display: inline-block;
 	margin-left: -1.2em;
 	width: 1.2em;
